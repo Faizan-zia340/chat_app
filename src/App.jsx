@@ -1,7 +1,8 @@
 import Home from "./screens/Home";
 import Chat from "./screens/Chat";
 import Login from "./screens/Login";
-import Signup from "./screens//Signup"
+import Signup from "./screens/Signup";  // Remove extra slash
+
 // import ImgSwap from "./screens/ImgSwap";
 import Profile from "./screens/Profile";
 import Loading from "./screens/Loading";
